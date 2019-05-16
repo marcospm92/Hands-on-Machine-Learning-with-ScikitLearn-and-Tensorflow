@@ -1,4 +1,5 @@
 # Machine-Learning
-Exercises done while learning ML
+Exercises done while learning Machine Learning by myself
 
-Starting with Hands on Machine Learning with Scikit-Learn and Tensorflow
+- Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow
+- Kaggle: Titanic
